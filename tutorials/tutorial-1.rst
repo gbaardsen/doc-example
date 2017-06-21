@@ -1,4 +1,6 @@
 TUTORIAL
 ====================
 
-This is a tutorial...
+This is a tutorial..
+
+... and here is more advice 
